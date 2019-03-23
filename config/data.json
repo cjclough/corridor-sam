@@ -1,0 +1,198 @@
+{
+    "users": {
+        "108610712049287168": {
+            "name": "zee",
+            "reprimands": 0,
+            "money": 4.0,
+            "inventory": {},
+            "office": {}
+        },
+        "150359526762217472": {
+            "name": "julie",
+            "reprimands": 0,
+            "money": 19.0,
+            "inventory": {},
+            "office": {}
+        },
+        "142116202808999936": {
+            "name": "kshrubb",
+            "reprimands": 0,
+            "money": 37.5,
+            "inventory": {},
+            "office": {}
+        },
+        "137723737922338816": {
+            "name": "cursethrower",
+            "reprimands": 0,
+            "money": 70.5,
+            "inventory": {},
+            "office": {},
+            "last.fm": "networkdrift"
+        },
+        "95919552453439488": {
+            "name": "Charm | Scarfy",
+            "reprimands": 0,
+            "money": 33.0,
+            "inventory": {},
+            "office": {}
+        },
+        "110802691994730496": {
+            "name": "ass_hoole69",
+            "reprimands": 0,
+            "money": 78.5,
+            "inventory": {},
+            "office": {}
+        },
+        "123158682266632196": {
+            "name": "LesCheneaux",
+            "reprimands": 0,
+            "money": 9.0,
+            "inventory": {},
+            "office": {}
+        },
+        "199066955141873664": {
+            "name": "comparestore",
+            "reprimands": 0,
+            "money": 4.0,
+            "inventory": {},
+            "office": {}
+        },
+        "451146066725699607": {
+            "name": "aGuy_InaChair",
+            "reprimands": 0,
+            "money": 4.5,
+            "inventory": {},
+            "office": {}
+        },
+        "556754841536561183": {
+            "name": "Corridor Sam",
+            "reprimands": 0,
+            "money": 0,
+            "inventory": {},
+            "office": {}
+        },
+        "474837627762114561": {
+            "name": "Holy Diver",
+            "reprimands": 0,
+            "money": 6.0,
+            "inventory": {
+                "Intercom Pass": {
+                    "quantity": 1,
+                    "timestamp": 1553197959.8109837
+                }
+            },
+            "office": {}
+        },
+        "229940756612120577": {
+            "name": "Skull",
+            "reprimands": 0,
+            "money": 4.0,
+            "inventory": {},
+            "office": {}
+        },
+        "127170892353503232": {
+            "member": "remy",
+            "reprimands": 0,
+            "money": 14.0,
+            "inventory": {},
+            "office": {}
+        },
+        "114849532067577865": {
+            "member": "need to be better",
+            "reprimands": 0,
+            "money": 0,
+            "inventory": {},
+            "office": {}
+        }
+    },
+    "shop": {
+        "items": {
+            "Intercom Pass": {
+                "desc": "Allows you to play an album on the Corridor Intercom System and add it to the Quiet Catalog.",
+                "cost": 15,
+                "stock": 5,
+                "umax": 1
+            },
+            "Trusty Milkcrate": {
+                "desc": "Increases your record storage by 10.",
+                "cost": 20,
+                "stock": 5,
+                "umax": 999
+            },
+            "Record Shelf": {
+                "desc": "Increases your record storage by 30.",
+                "cost": 50,
+                "stock": 3,
+                "umax": 999
+            },
+            "Name Color Change": {
+                "desc": "Allows you to change the color of your name.",
+                "cost": 5,
+                "stock": 10,
+                "umax": 1
+            }
+        }
+    },
+    "sam": {
+        "pets": 77,
+        "bank": 120
+    },
+    "catalog": {
+        "entries": 3,
+        "001": {
+            "link": "https://www.youtube.com/playlist?list=PLesCQLfnc58TLOZH1toZXf8qIjOAsqmU8",
+            "archiver": 137723737922338816,
+            "date": "03/20/2019",
+            "ratings": {
+                "137723737922338816": 8,
+                "110802691994730496": 7,
+                "229940756612120577": 7,
+                "451146066725699607": 7
+            },
+            "average": 7.25,
+            "artist": "Forest Management",
+            "title": "Encounter",
+            "genre": "Ambient/Drone",
+            "rym": "https://rateyourmusic.com/release/album/forest-management/encounter/",
+            "cover": "https://f4.bcbits.com/img/a3051370957_10.jpg",
+            "year": "2015",
+            "complete": "true"
+        },
+        "002": {
+            "link": "https://youtu.be/Nv4QrT6Q-kQ",
+            "archiver": 95919552453439488,
+            "date": "03/21/2019",
+            "ratings": {
+                "137723737922338816": 9,
+                "95919552453439488": 9,
+                "110802691994730496": 8,
+                "127170892353503232": 7
+            },
+            "complete": "true",
+            "average": 8.25,
+            "genre": "Progressive Electronic",
+            "cover": "https://img.discogs.com/nfMEmIL3ekBcbmL1v7IncOqa65Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530794-1439928943-2386.jpeg.jpg",
+            "title": "Mother Earth's Plantasia",
+            "artist": "Mort Garson",
+            "rym": "https://rateyourmusic.com/release/album/mort-garson/mother-earths-plantasia/",
+            "year": "1976"
+        },
+        "003": {
+            "link": "https://www.youtube.com/watch?v=BQsaPVW3vxY",
+            "archiver": 137723737922338816,
+            "date": "03/22/2019",
+            "ratings": {
+                "137723737922338816": 8,
+                "127170892353503232": 7
+            },
+            "complete": "false",
+            "rym": "https://rateyourmusic.com/release/album/jefre-cantu-ledesma/love-is-a-stream-2/",
+            "artist": "Jefre Cantu-Ledesma",
+            "title": "Love Is a Stream",
+            "year": "2010",
+            "cover": "https://f4.bcbits.com/img/a1654229385_5.jpg",
+            "average": 7.5,
+            "genre": "Ambient/Drone/Noise"
+        }
+    }
+}
