@@ -3,196 +3,501 @@
         "108610712049287168": {
             "name": "zee",
             "reprimands": 0,
-            "money": 4.0,
-            "inventory": {},
+            "samcoins": 1,
+            "messages": 19,
+            "backpack": {},
             "office": {}
         },
         "150359526762217472": {
             "name": "julie",
             "reprimands": 0,
-            "money": 19.0,
-            "inventory": {},
+            "samcoins": 0,
+            "messages": 12,
+            "backpack": {},
             "office": {}
         },
         "142116202808999936": {
             "name": "kshrubb",
             "reprimands": 0,
-            "money": 37.5,
-            "inventory": {},
+            "samcoins": 0,
+            "messages": 16,
+            "backpack": {},
             "office": {}
         },
         "137723737922338816": {
             "name": "cursethrower",
             "reprimands": 0,
-            "money": 70.5,
-            "inventory": {},
+            "samcoins": 33,
+            "messages": 1421,
+            "backpack": {
+                "Shiny Badge": {
+                    "date": "04/13/2019",
+                    "desc": "A shiny new nametag. Changes the color of your display name."
+                }
+            },
             "office": {},
-            "last.fm": "networkdrift"
+            "last.fm": "networkdrift",
+            "daily": "04/10/2019",
+            "location": "Huntsville, Alabama"
         },
         "95919552453439488": {
             "name": "Charm | Scarfy",
             "reprimands": 0,
-            "money": 33.0,
-            "inventory": {},
-            "office": {}
+            "samcoins": 12,
+            "messages": 74,
+            "backpack": {},
+            "office": {},
+            "member": "Charm | Scarfy"
         },
         "110802691994730496": {
             "name": "ass_hoole69",
             "reprimands": 0,
-            "money": 78.5,
-            "inventory": {},
-            "office": {}
+            "samcoins": 55,
+            "messages": 624,
+            "backpack": {},
+            "office": {},
+            "daily": "04/09/2019"
         },
         "123158682266632196": {
             "name": "LesCheneaux",
             "reprimands": 0,
-            "money": 9.0,
-            "inventory": {},
+            "samcoins": 15,
+            "messages": 83,
+            "backpack": {},
             "office": {}
         },
         "199066955141873664": {
             "name": "comparestore",
             "reprimands": 0,
-            "money": 4.0,
-            "inventory": {},
+            "samcoins": 0,
+            "messages": 2,
+            "backpack": {},
             "office": {}
         },
         "451146066725699607": {
             "name": "aGuy_InaChair",
             "reprimands": 0,
-            "money": 4.5,
-            "inventory": {},
+            "samcoins": 0,
+            "messages": 6,
+            "backpack": {},
             "office": {}
         },
         "556754841536561183": {
             "name": "Corridor Sam",
             "reprimands": 0,
-            "money": 0,
-            "inventory": {},
+            "samcoins": 0,
+            "messages": 0,
+            "backpack": {},
             "office": {}
         },
         "474837627762114561": {
             "name": "Holy Diver",
             "reprimands": 0,
-            "money": 6.0,
-            "inventory": {
-                "Intercom Pass": {
-                    "quantity": 1,
-                    "timestamp": 1553197959.8109837
-                }
-            },
+            "samcoins": 0,
+            "messages": 0,
+            "backpack": {},
             "office": {}
         },
         "229940756612120577": {
             "name": "Skull",
             "reprimands": 0,
-            "money": 4.0,
-            "inventory": {},
+            "samcoins": 0,
+            "messages": 4,
+            "backpack": {},
             "office": {}
         },
         "127170892353503232": {
             "member": "remy",
             "reprimands": 0,
-            "money": 14.0,
-            "inventory": {},
-            "office": {}
+            "samcoins": 23,
+            "messages": 298,
+            "backpack": {
+                "Broadcast Code": {
+                    "date": "04/08/2019",
+                    "desc": "A code that, when punched into the Corridor Intercom System, broadcasts a Quiet Catalog item of your choice to the entire department.",
+                    "code": "iRsCSw"
+                }
+            },
+            "office": {},
+            "name": "remy",
+            "daily": "04/10/2019",
+            "location": "Peachtree City, Georgia"
         },
         "114849532067577865": {
             "member": "need to be better",
             "reprimands": 0,
-            "money": 0,
+            "samcoins": 13,
+            "messages": 91,
+            "backpack": {},
+            "office": {},
+            "name": "need to be better"
+        },
+        "144235835871461376": {
+            "name": "suztan",
+            "reprimands": 0,
+            "samcoins": 0,
+            "messages": 1,
+            "backpack": {},
+            "office": {}
+        },
+        "501521579633672192": {
+            "name": "Grimseth",
+            "reprimands": 0,
+            "samcoins": 0,
+            "messages": 0,
+            "backpack": {},
+            "office": {}
+        },
+        "203305255394344960": {
+            "member": "GAG",
+            "reprimands": 0,
+            "samcoins": 0,
+            "messages": 1,
             "inventory": {},
             "office": {}
+        },
+        "129445575824244737": {
+            "member": "nameless",
+            "reprimands": 0,
+            "samcoins": 0,
+            "messages": 1,
+            "inventory": {},
+            "office": {},
+            "name": "nameless"
+        },
+        "239185756411789312": {
+            "member": "notsh",
+            "reprimands": 0,
+            "samcoins": 0,
+            "messages": 1,
+            "inventory": {},
+            "office": {},
+            "name": "notsh"
         }
     },
     "shop": {
         "items": {
-            "Intercom Pass": {
-                "desc": "Allows you to play an album on the Corridor Intercom System and add it to the Quiet Catalog.",
-                "cost": 15,
-                "stock": 5,
-                "umax": 1
+            "Broadcast Code": {
+                "desc": "A code that, when punched into the Corridor Intercom System, broadcasts a Quiet Catalog item of your choice to the entire department.",
+                "cost": 10,
+                "stock": 1
+            },
+            "Shiny Badge": {
+                "desc": "A shiny new nametag. Changes the color of your display name.",
+                "cost": 5,
+                "stock": 1
             },
             "Trusty Milkcrate": {
-                "desc": "Increases your record storage by 10.",
+                "desc": "A beat-up but determined milkcrate for your office. Increases your record storage by 10.",
                 "cost": 20,
-                "stock": 5,
-                "umax": 999
+                "stock": 0
             },
-            "Record Shelf": {
-                "desc": "Increases your record storage by 30.",
+            "Sturdy Record Shelf": {
+                "desc": "A lovely walnut shelf made just for records. Increases your record storage by 30.",
                 "cost": 50,
-                "stock": 3,
-                "umax": 999
+                "stock": 0
             },
-            "Name Color Change": {
-                "desc": "Allows you to change the color of your name.",
-                "cost": 5,
-                "stock": 10,
-                "umax": 1
+            "Creeper Statue": {
+                "desc": "A replica of the real deal. Grants you access to the Quiet Corridor's Minecraft Realm.",
+                "cost": 75,
+                "stock": 0
+            },
+            "Chicken Statue": {
+                "desc": "The coveted artifact itself. Grants you access to the Quiet Corridor's Stardew Valley farm.",
+                "cost": 75,
+                "stock": 0
             }
         }
     },
     "sam": {
-        "pets": 77,
-        "bank": 120
+        "pets": 121,
+        "samcoins": 135,
+        "login": 1555726089,
+        "codes": {
+            "127170892353503232": "iRsCSw"
+        },
+        "snipe": {
+            "author": "556754841536561183",
+            "message": "",
+            "date": "04/16/2019"
+        }
     },
     "catalog": {
-        "entries": 3,
-        "001": {
-            "link": "https://www.youtube.com/playlist?list=PLesCQLfnc58TLOZH1toZXf8qIjOAsqmU8",
-            "archiver": 137723737922338816,
-            "date": "03/20/2019",
-            "ratings": {
-                "137723737922338816": 8,
-                "110802691994730496": 7,
-                "229940756612120577": 7,
-                "451146066725699607": 7
+        "entries": 16,
+        "items": {
+            "001": {
+                "index": "001",
+                "link": "https://www.youtube.com/playlist?list=PLesCQLfnc58TLOZH1toZXf8qIjOAsqmU8",
+                "archiver": 137723737922338816,
+                "date": "03/20/2019",
+                "ratings": {
+                    "137723737922338816": 8,
+                    "110802691994730496": 7,
+                    "229940756612120577": 7,
+                    "451146066725699607": 7
+                },
+                "average": 7.25,
+                "artist": "Forest Management",
+                "title": "Encounter",
+                "genre": "Ambient/Drone",
+                "rym": "https://rateyourmusic.com/release/album/forest-management/encounter/",
+                "cover": "https://f4.bcbits.com/img/a3051370957_10.jpg",
+                "year": "2015",
+                "message": 563898738364514304
             },
-            "average": 7.25,
-            "artist": "Forest Management",
-            "title": "Encounter",
-            "genre": "Ambient/Drone",
-            "rym": "https://rateyourmusic.com/release/album/forest-management/encounter/",
-            "cover": "https://f4.bcbits.com/img/a3051370957_10.jpg",
-            "year": "2015",
-            "complete": "true"
-        },
-        "002": {
-            "link": "https://youtu.be/Nv4QrT6Q-kQ",
-            "archiver": 95919552453439488,
-            "date": "03/21/2019",
-            "ratings": {
-                "137723737922338816": 9,
-                "95919552453439488": 9,
-                "110802691994730496": 8,
-                "127170892353503232": 7
+            "002": {
+                "index": "002",
+                "link": "https://youtu.be/Nv4QrT6Q-kQ",
+                "archiver": 95919552453439488,
+                "date": "03/21/2019",
+                "ratings": {
+                    "137723737922338816": 9,
+                    "95919552453439488": 9,
+                    "110802691994730496": 8,
+                    "127170892353503232": 7
+                },
+                "average": 8.25,
+                "genre": "Progressive Electronic",
+                "cover": "https://img.discogs.com/nfMEmIL3ekBcbmL1v7IncOqa65Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530794-1439928943-2386.jpeg.jpg",
+                "title": "Mother Earth's Plantasia",
+                "artist": "Mort Garson",
+                "rym": "https://rateyourmusic.com/release/album/mort-garson/mother-earths-plantasia/",
+                "year": "1976",
+                "message": 563898738981208078
             },
-            "complete": "true",
-            "average": 8.25,
-            "genre": "Progressive Electronic",
-            "cover": "https://img.discogs.com/nfMEmIL3ekBcbmL1v7IncOqa65Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530794-1439928943-2386.jpeg.jpg",
-            "title": "Mother Earth's Plantasia",
-            "artist": "Mort Garson",
-            "rym": "https://rateyourmusic.com/release/album/mort-garson/mother-earths-plantasia/",
-            "year": "1976"
-        },
-        "003": {
-            "link": "https://www.youtube.com/watch?v=BQsaPVW3vxY",
-            "archiver": 137723737922338816,
-            "date": "03/22/2019",
-            "ratings": {
-                "137723737922338816": 8,
-                "127170892353503232": 7
+            "003": {
+                "index": "003",
+                "link": "https://www.youtube.com/watch?v=BQsaPVW3vxY",
+                "archiver": 137723737922338816,
+                "date": "03/22/2019",
+                "ratings": {
+                    "137723737922338816": 8,
+                    "127170892353503232": 7,
+                    "123158682266632196": 8
+                },
+                "rym": "https://rateyourmusic.com/release/album/jefre-cantu-ledesma/love-is-a-stream-2/",
+                "artist": "Jefre Cantu-Ledesma",
+                "title": "Love Is A Stream",
+                "year": "2010",
+                "cover": "https://f4.bcbits.com/img/a1654229385_5.jpg",
+                "average": 7.666666666666667,
+                "genre": "Ambient/Drone/Noise",
+                "message": 563898739547308042
             },
-            "complete": "false",
-            "rym": "https://rateyourmusic.com/release/album/jefre-cantu-ledesma/love-is-a-stream-2/",
-            "artist": "Jefre Cantu-Ledesma",
-            "title": "Love Is a Stream",
-            "year": "2010",
-            "cover": "https://f4.bcbits.com/img/a1654229385_5.jpg",
-            "average": 7.5,
-            "genre": "Ambient/Drone/Noise"
+            "004": {
+                "index": "004",
+                "link": "https://www.youtube.com/watch?v=LL998ajnjN4",
+                "archiver": 137723737922338816,
+                "date": "03/24/2019",
+                "ratings": {
+                    "137723737922338816": 8
+                },
+                "rym": "https://rateyourmusic.com/release/album/jefre-cantu-ledesma/love-is-a-stream-2/",
+                "artist": "The Caretaker",
+                "title": "An Empty Bliss Beyond This World",
+                "year": "2011",
+                "cover": "https://f4.bcbits.com/img/a4087775263_10.jpg",
+                "average": 8.0,
+                "genre": "Ambient/Turntable Music",
+                "message": 563898740252082176
+            },
+            "005": {
+                "index": "005",
+                "link": "https://www.youtube.com/watch?v=kyDhvPWxexA",
+                "archiver": 137723737922338816,
+                "date": "03/31/2019",
+                "ratings": {
+                    "137723737922338816": 9,
+                    "114849532067577865": 7,
+                    "110802691994730496": 7
+                },
+                "artist": "Echo Lane Afterschool Inc.",
+                "title": "Sunburnt",
+                "year": "2017",
+                "genre": "Ambient/Glitch",
+                "rym": "https://rateyourmusic.com/release/album/echo-lane-afterschool-inc/sunburnt/",
+                "cover": "https://e.snmc.io/i/fullres/w/a43c674c566f820345f2051908dce415/6466713",
+                "message": 563898740931559439
+            },
+            "006": {
+                "index": "006",
+                "link": "https://www.youtube.com/watch?v=mjnAE5go9dI",
+                "archiver": 110802691994730496,
+                "date": "04/04/2019",
+                "ratings": {
+                    "110802691994730496": 10,
+                    "137723737922338816": 8,
+                    "123158682266632196": 9
+                },
+                "title": "The Disintegration Loops",
+                "artist": "William Basinski",
+                "year": "2002",
+                "genre": "Tape Music/Ambient/Minimalism",
+                "cover": "https://mmmlele.files.wordpress.com/2011/09/basinski1.jpg",
+                "average": 9.0,
+                "rym": "https://rateyourmusic.com/release/album/william-basinski/the-disintegration-loops/",
+                "message": 563898762448076801
+            },
+            "007": {
+                "index": "007",
+                "link": "https://youtu.be/b07n8GST2LQ",
+                "archiver": 137723737922338816,
+                "date": "04/05/2019",
+                "ratings": {
+                    "137723737922338816": 8
+                },
+                "message": 563898762536419329,
+                "artist": "Slowdive",
+                "title": "Pygmalion",
+                "year": "1995",
+                "genre": "Ambient Pop/Dream Pop",
+                "rym": "https://rateyourmusic.com/release/album/slowdive/pygmalion/",
+                "cover": "https://e.snmc.io/i/fullres/w/30261c99f8a542ad7b7caefedae421e6/3765340",
+                "average": 8.0
+            },
+            "008": {
+                "index": "008",
+                "link": "https://www.youtube.com/watch?v=DaEHvTon550",
+                "archiver": 137723737922338816,
+                "date": "04/05/2019",
+                "ratings": {
+                    "137723737922338816": 7,
+                    "110802691994730496": 8
+                },
+                "message": 563898763425611796,
+                "artist": "The Obsolescent Arborist",
+                "title": "Tree, Timber and Forest",
+                "year": "2018",
+                "genre": "Dungeon Synth",
+                "rym": "https://rateyourmusic.com/release/album/the-obsolescent-arborist/tree-timber-and-forest/",
+                "cover": "https://f4.bcbits.com/img/a2876147492_10.jpg",
+                "average": 7.5
+            },
+            "009": {
+                "index": "009",
+                "link": "https://www.youtube.com/watch?v=XTu0H9lzMsQ",
+                "archiver": 137723737922338816,
+                "date": "04/05/2019",
+                "ratings": {
+                    "137723737922338816": 7,
+                    "110802691994730496": 8
+                },
+                "message": 563898763748311070,
+                "rym": "https://rateyourmusic.com/release/ep/brutus-greenshield/horseman/",
+                "title": "Horseman EP",
+                "year": "2018",
+                "genre": "Dungeon Synth",
+                "cover": "https://f4.bcbits.com/img/a2228321934_10.jpg",
+                "artist": "Brutus Greenshield",
+                "average": 7.5
+            },
+            "010": {
+                "index": "010",
+                "link": "https://www.youtube.com/watch?v=OZHPBMb4Fys",
+                "archiver": 137723737922338816,
+                "date": "04/06/2019",
+                "ratings": {
+                    "137723737922338816": 7,
+                    "110802691994730496": 8
+                },
+                "message": 564176208057597958,
+                "artist": "Murcof",
+                "title": "Martes",
+                "year": "2002",
+                "genre": "Ambient Techno/Glitch/Minimal Techno",
+                "cover": "https://f4.bcbits.com/img/a3934494477_10.jpg",
+                "average": 7.5
+            },
+            "011": {
+                "index": "011",
+                "link": "https://www.youtube.com/watch?v=F7V42vZieQw",
+                "archiver": 137723737922338816,
+                "date": "04/11/2019",
+                "ratings": {},
+                "message": 565949916661153802,
+                "artist": "Shuttle358",
+                "title": "Chessa",
+                "year": "2004",
+                "genre": "Ambient/Glitch",
+                "cover": "https://f4.bcbits.com/img/a0569728764_10.jpg",
+                "rym": "https://rateyourmusic.com/release/album/shuttle358/chessa/"
+            },
+            "012": {
+                "index": "012",
+                "link": "https://www.youtube.com/watch?v=rI1HFEZR8Xo",
+                "archiver": 137723737922338816,
+                "date": "04/11/2019",
+                "ratings": {},
+                "message": 565950698253189140,
+                "artist": "Microstoria",
+                "title": "_Snd",
+                "year": "1996",
+                "genre": "Ambient/Glitch",
+                "cover": "https://img.discogs.com/bzGrlzqhbI8oe5mPqMKi3PlYO5U=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-72661-1498572067-7850.jpeg.jpg",
+                "rym": "https://rateyourmusic.com/release/album/microstoria/_snd/"
+            },
+            "013": {
+                "index": "013",
+                "link": "https://www.youtube.com/playlist?list=PLA1eoy29ZKr8S_HaWAU4Uv5CyaWU1ZEBU",
+                "archiver": 137723737922338816,
+                "date": "04/11/2019",
+                "ratings": {
+                    "137723737922338816": 8
+                },
+                "message": 565952040128217089,
+                "artist": "Vladislav Delay",
+                "title": "Entain",
+                "year": "2000",
+                "genre": "Ambient Dub/Glitch",
+                "rym": "https://rateyourmusic.com/release/album/vladislav-delay/entain/",
+                "cover": "https://img.discogs.com/npQkkVx9vJFed0GVVTTd3L97wuc=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16469-1245763510.jpeg.jpg",
+                "average": 8.0
+            },
+            "014": {
+                "index": "014",
+                "link": "https://www.youtube.com/watch?v=OgxPXUkDGd0",
+                "archiver": 137723737922338816,
+                "date": "04/11/2019",
+                "ratings": {},
+                "message": 565954539396530186,
+                "artist": "Jan Jelinek",
+                "title": "Loop-Finding-Jazz-Records",
+                "year": "2001",
+                "genre": "Ambient Techno/Glitch",
+                "rym": "https://rateyourmusic.com/release/album/jan-jelinek/loop-finding-jazz-records/",
+                "cover": "https://f4.bcbits.com/img/a0750392873_10.jpg"
+            },
+            "015": {
+                "index": "015",
+                "link": "https://www.youtube.com/watch?v=Z6ih1aKeETk",
+                "archiver": 127170892353503232,
+                "date": "04/11/2019",
+                "ratings": {},
+                "message": 566015323535573032,
+                "artist": "Tycho",
+                "title": "Dive",
+                "year": "2011",
+                "genre": "Downtempo",
+                "rym": "https://rateyourmusic.com/release/album/tycho/dive/",
+                "cover": "https://vmp-www.imgix.net/images/tycho.original.jpg?auto=format&w=1700&h=1660"
+            },
+            "016": {
+                "index": "016",
+                "link": "https://youtu.be/F-KZOIfKj6k",
+                "archiver": 137723737922338816,
+                "date": "04/13/2019",
+                "ratings": {
+                    "137723737922338816": 7
+                },
+                "message": 566672046486978588,
+                "artist": "D.F.H.",
+                "title": "D.F.H.",
+                "year": "2016",
+                "genre": "Noise/Tape Music",
+                "cover": "https://f4.bcbits.com/img/a1098466778_10.jpg",
+                "rym": "https://rateyourmusic.com/release/album/d_f_h/d%E2%80%8B_%E2%80%8Bf%E2%80%8B_%E2%80%8Bh/",
+                "average": 7.0
+            }
         }
     }
 }

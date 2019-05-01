@@ -45,7 +45,7 @@ async def get_limit(size):
 with open("./config/config.json") as f:
     config = json.load(f)
 
-api_key = config["key"]
+api_key = config["lastfmkey"]
 
 
 class Last(commands.Cog, name='last.fm'):
@@ -101,9 +101,10 @@ class Last(commands.Cog, name='last.fm'):
                     pass
                 offset_x += 300
 
-            buffer = BytesIO()
-            canvas.save(buffer, format='jpeg', quality=100)
-            await ctx.send('', file=discord.File(fp=buffer.getvalue(), filename='chart.jpg'))
+            with BytesIO() as buffer:
+                image.save(buffer, format='png')
+                buffer.seek(0)
+                await ctx.send(file=discord.File(fp=buffer, filename='chart.png'))
 
             # make the embed
             embed = discord.Embed(description=" ", color=0xC1CCE6)

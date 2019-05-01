@@ -1,0 +1,96 @@
+{
+    "sam": {
+        "help": "https://cdn.discordapp.com/attachments/566378510684520463/566384590302871580/help.png",
+        "on":  {
+            "icon": "https://cdn.discordapp.com/attachments/566378510684520463/566384597332525086/on.png",
+            "emoji": "<:on:563308809481617452>"
+        },
+        "off": {
+            "icon": "https://cdn.discordapp.com/attachments/566378510684520463/566384597797961740/off.png",
+            "emoji": "<:off:563308809842458624>"
+        },
+        "timer": {
+            "icon": "https://cdn.discordapp.com/attachments/566378510684520463/566384601996460043/timer.png",
+            "emoji": "<:timer:563309483313594369>"
+        },
+        "userinfo": "https://cdn.discordapp.com/attachments/566378510684520463/566384606442553344/userinfo.png",
+        "sam": { 
+            "icon": "https://cdn.discordapp.com/attachments/566378510684520463/566384647127433271/sam.png",
+            "emoji": "<:sam:563308809888595978>"
+        },
+        "sam512": "https://cdn.discordapp.com/attachments/566378510684520463/566384650633740379/sam512.png"
+    },
+    "catalog": {
+        "catalog": "https://cdn.discordapp.com/attachments/566378595254272009/566380935684030474/catalog.png",
+        "intercom": "https://cdn.discordapp.com/attachments/566378595254272009/566380938121183232/intercom.png",
+        "sonemic": "https://cdn.discordapp.com/attachments/566378595254272009/566381553836359691/sonemic.png"
+    },
+    "shop": {
+        "gift": {
+            "icon": "https://cdn.discordapp.com/attachments/566378530095628300/566380709116379148/gift.png",
+            "emoji": "<:gift:563308809800515584>"
+        }, 
+        "piggybank": {
+            "icon": "https://cdn.discordapp.com/attachments/566378530095628300/566380713054830593/piggybank.png",
+            "emoji": "<:piggybank:563418186544971796>"
+        },
+        "receipt": {
+            "icon": "https://cdn.discordapp.com/attachments/566378530095628300/566380716300959755/receipt.png",
+            "emoji": "<:receipt:566402375687077891>"
+        },
+        "shop": "https://cdn.discordapp.com/attachments/566378530095628300/566380721376198686/shop.png",
+        "tag": {
+            "icon": "https://cdn.discordapp.com/attachments/566378530095628300/566380725419638785/tag.png",
+            "emoji": "<:tag:563308809817161730>"
+        },
+        "instock": {
+            "icon": "https://cdn.discordapp.com/attachments/566378530095628300/566380792260067378/instock.png",
+            "emoji": "<:instock:563308809339011090>"
+        },
+        "outofstock": {
+            "icon": "https://cdn.discordapp.com/attachments/566378530095628300/566380797955932160/outofstock.png",
+            "emoji": "<:outofstock:563308809846521882>"
+        },
+        "samcoin": {
+            "icon": "https://cdn.discordapp.com/attachments/566378530095628300/566382943010947312/samcoin.png",
+            "emoji": "<:samcoin:563447854308261890>"
+        }
+    },
+    "weather": {
+        "bothhail": "https://cdn.discordapp.com/attachments/566378574228095006/566383738703970317/bothhail.png",
+        "snow": "https://cdn.discordapp.com/attachments/566378574228095006/566383742088904715/bothsnow.png",
+        "bothstorm": "https://cdn.discordapp.com/attachments/566378574228095006/566383745452736533/bothstorm.png",
+        "wind": "https://cdn.discordapp.com/attachments/566378574228095006/566383748367777793/bothwindy.png",
+        "daycloudy": "https://cdn.discordapp.com/attachments/566378574228095006/566383752218148875/daycloudy.png",
+        "dayfog": "https://cdn.discordapp.com/attachments/566378574228095006/566383755716067328/dayfog.png",
+        "partly-cloudy-day": "https://cdn.discordapp.com/attachments/566378574228095006/566383759985999872/daypartlycloudy.png",
+        "dayrain": "https://cdn.discordapp.com/attachments/566378574228095006/566383763819331624/dayrain.png",
+        "clear-day": "https://cdn.discordapp.com/attachments/566378574228095006/566383767858446356/daysunny.png",
+        "clear-night": "https://cdn.discordapp.com/attachments/566378574228095006/566383772711518243/nightclear.png",
+        "partly-cloudy-night": "https://cdn.discordapp.com/attachments/566378574228095006/566383784543649794/nightcloudy.png",
+        "nightfog": "https://cdn.discordapp.com/attachments/566378574228095006/566383791099084800/nightfog.png",
+        "nightrain": "https://cdn.discordapp.com/attachments/566378574228095006/566383797415706625/nightrain.png"
+    },
+    "other": {
+        "backpack": "https://cdn.discordapp.com/attachments/566382211935371310/566387814602637313/backpack.png",
+        "bank": "https://cdn.discordapp.com/attachments/566382211935371310/566387818260070411/bank.png",
+        "color": "https://cdn.discordapp.com/attachments/566382211935371310/566387822785855498/color.png",
+        "department": "https://cdn.discordapp.com/attachments/566382211935371310/566387827496058916/department.png",
+        "full": {
+            "icon": "https://cdn.discordapp.com/attachments/566382211935371310/566387831040114688/full.png",
+            "emoji": "<:full:563308809817292800>"
+        },
+        "gender": "https://cdn.discordapp.com/attachments/566382211935371310/566387835117240320/gender.png",
+        "mail": "https://cdn.discordapp.com/attachments/566382211935371310/566387838548180992/mail.png",
+        "mailbox": "https://cdn.discordapp.com/attachments/566382211935371310/566387843493265418/mailbox.png",
+        "music": "https://cdn.discordapp.com/attachments/566382211935371310/566387847339311125/music.png",
+        "search": {
+            "icon": "https://cdn.discordapp.com/attachments/566382211935371310/566387853186301974/search.png",
+            "emoji": "<:search:563308809745989633>"
+        },
+        "snipe": {
+            "icon": "https://cdn.discordapp.com/attachments/566378510684520463/566384597332525086/on.png",
+            "emoji": "<:snipe:563308810043916292>"
+        }
+    }
+}

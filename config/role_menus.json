@@ -1,0 +1,72 @@
+{
+    "menus": {
+        "ambient": {
+            "roles": {
+                "\ud83e\udd89": "Ambient",
+                "\ud83e\udd87": "Black Ambient",
+                "\ud83c\udf11": "Dark Ambient",
+                "\ud83d\udc10": "Ritual Ambient",
+                "\ud83c\udf0c": "Space Ambient",
+                "\ud83e\udd41": "Tribal Ambient"
+            },
+            "icon": "https://cdn.discordapp.com/attachments/562564068376969217/563310647601922048/music.png"
+        },
+        "experimental": {
+            "roles": {
+                "\u2796": "Drone",
+                "\ud83d\udc1b": "Glitch",
+                "\u25fb": "Reductionism",
+                "\ud83d\udcfc": "Tape Music",
+                "\ud83c\udf30": "Turntable Music"
+            },
+            "icon": "https://cdn.discordapp.com/attachments/562564068376969217/563310647601922048/music.png"
+        },
+        "electronic": {
+            "roles": {
+                "\u2b07": "Downtempo",
+                "\ud83d\udd7a": "Dub Techno",
+                "\u2694": "Dungeon Synth",
+                "\ud83d\udc1c": "Microsound",
+                "\ud83d\udc8e": "Minimal Techno",
+                "\ud83d\udeaa": "Progressive Electronic",
+                "\ud83d\udda5": "Vapour",
+                "\u2600": "Ambient Dub",
+                "\ud83c\udf25": "Ambient Techno"
+            },
+            "icon": "https://cdn.discordapp.com/attachments/562564068376969217/563310647601922048/music.png"
+        },
+        "other music": {
+            "roles": {
+                "\ud83c\udf08": "New Age",
+                "\ud83d\udd53": "Slowcore",
+                "\ud83c\udf33": "Ambient Pop",
+                "\ud83c\udf3b": "Minimalism"
+            },
+            "icon": "https://cdn.discordapp.com/attachments/562564068376969217/563310647601922048/music.png"
+        },
+        "pronouns": {
+            "roles": {
+                "\u2764": "She",
+                "\ud83d\udc99": "He",
+                "\ud83d\udc9c": "They",
+                "\ud83d\udc9a": "It"
+            },
+            "icon": "https://cdn.discordapp.com/attachments/562564068376969217/563310614928162836/gender.png"
+        },
+        "events": {
+            "roles": {
+                "\ud83d\udce2": "Intercom",
+                "\ud83d\udd0a": "Broadcast"
+            },
+            "icon": "https://cdn.discordapp.com/attachments/562564068376969217/563310601846390804/department.png"
+        }
+    },
+    "ids": {
+        "ambient": 564144054074343448,
+        "experimental": 564144171577769986,
+        "electronic": 564144216478056449,
+        "other music": 564144303706996751,
+        "pronouns": 564144651448352772,
+        "events": 564144983926374410
+    }
+}
